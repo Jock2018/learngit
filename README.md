@@ -1,3 +1,1 @@
-Git is a version control system
-Git is a great and free software
-Git is good!
+本项目是学习廖雪峰老师Git教程的学习笔记
